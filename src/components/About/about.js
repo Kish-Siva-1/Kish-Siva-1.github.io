@@ -33,6 +33,7 @@ export const About = () => {
                 <div id="around" className="col-lg-4 mb-5 mb-lg-0 mx-auto">
                     <br />
                     <h4 className="text-uppercase text-secondary mb-4">Social Media</h4>
+
                     <a className="btn btn-outline-secondary btn-social mx-1" target="_blank" href="https://medium.com/@kishandth.sivapalasundaram">
                         <FontAwesomeIcon icon={faMedium} style={{ fontSize: "1.4em" }} />
                     </a>
