@@ -43,7 +43,7 @@ export const TechStack = () => {
                         <img id="mongodb" className = "img-fluid portfolio-img" src="/assets/img/logos/mongodbBadge.svg" alt="mongodb" /> 
                         <br />
                         <br />
-                        <img id="postgreSQL" className = "img-fluid portfolio-img" src="/assets/img/logos/postgreSQL.svg" alt="postgreSQL" />
+                        <img id="postgreSQL" className = "img-fluid portfolio-img" src="/assets/img/logos/postgresql.svg" alt="postgreSQL" />
                         <br />
                         <br />
                     </div>
